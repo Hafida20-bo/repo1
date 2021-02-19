@@ -5,5 +5,5 @@
   la secrétaire peut voir les informations administatives des patients                                                                                                             
   le médecin peut remplir le dossier médicale de patient                                                                                                                           
   le dossier médicale contient les ordonnances, les lettres d'orientation ,imageries, maladies, antécédents, allergies                                                             
-  le médecin peut ajouetr ,,supp ou modifier un patient et un rendez-vous
+  le médecin peut ajouetr ,,supp ou modifier un patient et un rendez-vous                                                                                                          
   le médecin peut aussi imprimer l'ordonnance et lalettre d'oriantation
